@@ -1,1 +1,0 @@
-Throughout this Git and GitHub course, I've learned fundamental version control concepts including repository creation, branching strategies, and collaborative workflows. I now understand how to fork repositories, create pull requests, and manage code changes effectively. These skills are essential for modern software development and team collaboration.
